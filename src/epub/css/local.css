@@ -10,6 +10,10 @@ strong{
 	font-variant: small-caps;
 }
 
+[epub|type~="chapter"]{
+	page-break-after: always;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
