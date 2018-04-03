@@ -30,43 +30,64 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:subject id="subject-1">Horror tales, American</dc:subject>
+		<dc:subject id="subject-2">Haunted houses -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-3">Horror tales</dc:subject>
+		<dc:subject id="subject-4">American fiction -- 20th century</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/31469</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/31469</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/50133</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/50133</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/50133</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Howard Phillips Lovecraft was one of the most influential writers of horror fiction in the early 20th century. His fame is mostly posthumous—he was only published in pulp magazines, and never saw financial success. Despite that, Lovecraft’s unique blend of gothicism, horror, and supernatural, set in an imagined but eerily-real New England, marked a gold standard for horror fiction for decades to come.&lt;/p&gt;
+			&lt;p&gt;Readers of modern fantasy and horror fiction will certainly recognize Cthulhu, the tentacle-mouthed god who lies asleep in a sunken Atlantean ruin; the &lt;i&gt;Necronomicon&lt;/i&gt;, a grimoire of unspeakable power and horror penned by the “mad Arab” Abdul Alhazred; and the dark, twisted New England countryside of the Miskatonic Valley. These and other features take shape in Lovecraft’s stories, creating a backdrop of the bizarre and horrible behind seemingly day-to-day lives.&lt;/p&gt;
+			&lt;p&gt;This edition is small because verifying the U.S. public domain status of Lovecraft’s corpus is a difficult, if not impossible, academic exercise, and finding first-edition copies to transcribe is also difficult. This edition will be updated as more transcriptions become verified and available.&lt;/&gt;
+			&lt;p&gt;Included in this editioni are some of Lovecraft’s juvenalia—in particular, &lt;i&gt;The Alchemist&lt;/i&gt; was written when he was just seventeen or eighteen.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
 		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._P._Lovecraft_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-p-lovecraft_short-fiction</meta>
 		<dc:creator id="author">H. P. Lovecraft</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Lovecraft, H. P.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Howard Phillips Lovecraft</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._P._Lovecraft</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80017007</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Arnold Böcklin</dc:contributor>
+		<meta property="file-as" refines="#artist">Böcklin, Arnold</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50010065</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Starner</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Starner, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Blundell, Stephen</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -82,13 +103,25 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-alchemist.xhtml"/>
+		<itemref idref="the-white-ship.xhtml"/>
+		<itemref idref="nyarlathotep.xhtml"/>
+		<itemref idref="ex-oblivione.xhtml"/>
+		<itemref idref="the-dunwich-horror.xhtml"/>
+		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
