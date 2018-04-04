@@ -29,6 +29,15 @@ strong{
 	display: none;
 }
 
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	margin: 0 auto 3em auto;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
 section > header{
 	text-align: center;
 }
