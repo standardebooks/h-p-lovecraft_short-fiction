@@ -5,6 +5,7 @@ abbr.name{
 	white-space: nowrap;
 }
 
+b,
 strong{
 	font-weight: normal;
 	font-variant: small-caps;
