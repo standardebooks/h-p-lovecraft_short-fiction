@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Horror tales, American</dc:subject>
@@ -34,22 +34,25 @@
 		<dc:subject id="subject-3">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-4">Horror tales</dc:subject>
 		<dc:subject id="subject-5">American fiction -- 20th century</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/31469</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/31469</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/50133</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/50133</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/50133</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85062085</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008105495</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85047114</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85062084</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85004320</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Howard Phillips Lovecraft was one of the most influential writers of horror fiction in the early 20th century. His fame is mostly posthumous—he was only published in pulp magazines, and never saw financial success. Despite that, Lovecraft’s unique blend of gothicism, horror, and supernatural, set in an imagined but eerily-real New England, marked a gold standard for horror fiction for decades to come.&lt;/p&gt;
 			&lt;p&gt;Readers of modern fantasy and horror fiction will certainly recognize Cthulhu, the tentacle-mouthed god who lies asleep in a sunken Atlantean ruin; the &lt;i&gt;Necronomicon&lt;/i&gt;, a grimoire of unspeakable power and horror penned by the “mad Arab” Abdul Alhazred; and the dark, twisted New England countryside of the Miskatonic Valley. These and other features take shape in Lovecraft’s stories, creating a backdrop of the bizarre and horrible behind seemingly day-to-day lives.&lt;/p&gt;
 			&lt;p&gt;This edition is small because verifying the U.S. public domain status of Lovecraft’s corpus is a difficult, if not impossible, academic exercise, and finding first-edition copies to transcribe is also difficult. This edition will be updated as more transcriptions become verified and available.&lt;/p&gt;
 			&lt;p&gt;Included in this edition are some of Lovecraft’s juvenalia—in particular, &lt;i&gt;The Alchemist&lt;/i&gt; was written when he was just seventeen or eighteen.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
