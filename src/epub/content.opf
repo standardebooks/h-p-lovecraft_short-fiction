@@ -132,13 +132,13 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
+		<itemref idref="dagon.xhtml"/>
 		<itemref idref="a-reminiscence-of-dr-samuel-johnson.xhtml"/>
 		<itemref idref="the-white-ship.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
-		<itemref idref="dagon.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
