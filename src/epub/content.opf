@@ -91,7 +91,7 @@
 		<dc:contributor id="transcriber-5">Jason Bell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Bell, Jason</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">pfr</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
@@ -104,8 +104,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<dc:contributor id="producer-2">Evan Hall</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Hall, Evan</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
