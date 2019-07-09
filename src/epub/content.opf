@@ -101,7 +101,6 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<dc:contributor id="producer-2">Evan Hall</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Hall, Evan</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
