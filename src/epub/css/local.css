@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 [epub|type~="bridgehead"]{
@@ -17,6 +17,7 @@
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] em,
