@@ -68,3 +68,7 @@ article > header [epub|type~="epigraph"]{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+abbr.era{
+	font-variant: all-small-caps;
+}
