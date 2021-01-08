@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>m-007</code>
+			<reason>Page scans link to pages in which the stories occur.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
