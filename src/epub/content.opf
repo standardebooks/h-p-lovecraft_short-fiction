@@ -56,6 +56,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/46534</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/46616</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/64901</dc:source>
@@ -149,6 +150,7 @@
 		<item href="text/the-festival.xhtml" id="the-festival.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-music-of-erich-zann.xhtml" id="the-music-of-erich-zann.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-other-gods.xhtml" id="the-other-gods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-picture-in-the-house.xhtml" id="the-picture-in-the-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rats-in-the-walls.xhtml" id="the-rats-in-the-walls.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
@@ -172,6 +174,7 @@
 		<itemref idref="from-beyond.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
+		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
 		<itemref idref="the-picture-in-the-house.xhtml"/>
 		<itemref idref="the-music-of-erich-zann.xhtml"/>
