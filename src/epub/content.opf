@@ -57,6 +57,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64901</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/64940</dc:source>
 		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV02N03192310</dc:source>
@@ -136,6 +137,7 @@
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" id="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-beyond.xhtml" id="from-beyond.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hypnos.xhtml" id="hypnos.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprisoned-with-the-pharaohs.xhtml" id="imprisoned-with-the-pharaohs.xhtml" media-type="application/xhtml+xml"/>
@@ -164,6 +166,7 @@
 		<itemref idref="beyond-the-wall-of-sleep.xhtml"/>
 		<itemref idref="the-white-ship.xhtml"/>
 		<itemref idref="the-statement-of-randolph-carter.xhtml"/>
+		<itemref idref="from-beyond.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
