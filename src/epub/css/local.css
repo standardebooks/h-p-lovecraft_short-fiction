@@ -69,6 +69,6 @@ article > header [epub|type~="epigraph"]{
 	display: none;
 }
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
