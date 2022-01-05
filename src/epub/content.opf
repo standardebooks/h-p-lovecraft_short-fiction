@@ -139,6 +139,7 @@
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" id="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-beyond.xhtml" id="from-beyond.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/he.xhtml" id="he.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hypnos.xhtml" id="hypnos.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprisoned-with-the-pharaohs.xhtml" id="imprisoned-with-the-pharaohs.xhtml" media-type="application/xhtml+xml"/>
@@ -148,8 +149,10 @@
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-festival.xhtml" id="the-festival.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-moon-bog.xhtml" id="the-moon-bog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-music-of-erich-zann.xhtml" id="the-music-of-erich-zann.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-gods.xhtml" id="the-other-gods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-outsider.xhtml" id="the-outsider.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-picture-in-the-house.xhtml" id="the-picture-in-the-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rats-in-the-walls.xhtml" id="the-rats-in-the-walls.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
@@ -185,6 +188,9 @@
 		<itemref idref="the-unnamable.xhtml"/>
 		<itemref idref="the-temple.xhtml"/>
 		<itemref idref="imprisoned-with-the-pharaohs.xhtml"/>
+		<itemref idref="the-outsider.xhtml"/>
+		<itemref idref="the-moon-bog.xhtml"/>
+		<itemref idref="he.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
