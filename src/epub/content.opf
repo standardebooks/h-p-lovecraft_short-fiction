@@ -153,7 +153,7 @@
 		<dc:contributor id="producer-4">Matic Likar</dc:contributor>
 		<meta property="file-as" refines="#producer-4">Likar, Matic</meta>
 		<meta property="se:role" refines="#producer-4" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-4" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-4" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-4" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
