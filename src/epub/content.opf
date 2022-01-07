@@ -54,25 +54,52 @@
 			&lt;p&gt;Included in this edition are some of Lovecraft’s juvenalia—in particular, “The Alchemist” was written when he was just seventeen or eighteen.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!-- The Alchemist, A Reminiscence of Dr. Samuel Johnson, The White Ship, Nyarlathotep, Ex Oblivione -->
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
+		<!-- The Shunned House -->
 		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/46534</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/46616</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64901</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64940</dc:source>
 		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
+		<!-- The Other Gods -->
+		<dc:source>https://www.gutenberg.org/ebooks/46534</dc:source>
+		<!-- Polaris -->
+		<dc:source>https://www.gutenberg.org/ebooks/46616</dc:source>
+		<!-- The Dunwich Horror -->
+		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
+		<!-- From Beyond -->
+		<dc:source>https://www.gutenberg.org/ebooks/64901</dc:source>
+		<!-- Beyond the Wall of Sleep -->
+		<dc:source>https://www.gutenberg.org/ebooks/64940</dc:source>
+		<!-- Dagon -->
 		<dc:source>https://archive.org/details/WeirdTalesV02N03192310</dc:source>
+		<!-- Facts Concerning the Late Arthur Jermyn and His Family / The White Ape -->
 		<dc:source>https://archive.org/details/WeirdTalesV03n04192404</dc:source>
+		<!-- The Rats in the Walls -->
 		<dc:source>https://archive.org/details/WeirdTalesV03n03192403</dc:source>
+		<!-- The Picture in the House -->
 		<dc:source>https://archive.org/details/WeirdTalesV03N01192401</dc:source>
+		<!-- The Hound -->
 		<dc:source>https://archive.org/details/WeirdTalesV03N02192402</dc:source>
+		<!-- Imprisoned with the Pharaohs, Hypnos -->
 		<dc:source>https://archive.org/details/WeirdTales1924050607ATLPM</dc:source>
+		<!-- The Festival -->
 		<dc:source>https://archive.org/details/WeirdTalesV05N01192501/page/n169</dc:source>
+		<!-- The Statement of Randolph Carter -->
 		<dc:source>https://archive.org/details/WeirdTalesV05N02192502/page/n149</dc:source>
+		<!-- The Music of Erich Zann -->
 		<dc:source>https://archive.org/details/WeirdTalesV05N05192505/page/n27</dc:source>
+		<!-- The Unnamable -->
 		<dc:source>https://archive.org/details/WeirdTalesV06N01192507/page/n77</dc:source>
+		<!-- The Temple -->
 		<dc:source>https://archive.org/details/WeirdTalesV06N03192509/page/n41</dc:source>
+		<!-- The Outsider -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190945</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV07N04192604/page/n17</dc:source>
+		<!-- The Moon-Bog -->
+		<dc:source>https://en.wikisource.org/wiki/The_Moon-Bog</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV07N06192606/page/n85</dc:source>
+		<!-- He -->
+		<dc:source>https://en.wikisource.org/wiki/He</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV08N03192609/page/n85</dc:source>
 		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
 		<meta property="se:word-count">101396</meta>
 		<meta property="se:reading-ease.flesch">52.73</meta>
@@ -123,6 +150,11 @@
 		<meta property="se:url.homepage" refines="#producer-3">https://www.robinwhittleton.com</meta>
 		<meta property="se:role" refines="#producer-3" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-4">Matic Likar</dc:contributor>
+		<meta property="file-as" refines="#producer-4">Likar, Matic</meta>
+		<meta property="se:role" refines="#producer-4" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-4" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-4" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
