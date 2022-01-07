@@ -6,4 +6,22 @@
 			<reason>Page scans link to pages in which the stories occur.</reason>
 		</ignore>
 	</file>
+	<file path="the-outsider.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>Story uses US spelling.</reason>
+		</ignore>
+	</file>
+	<file path="the-moon-bog.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>Story uses US spelling.</reason>
+		</ignore>
+	</file>
+	<file path="he.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>Story uses US spelling.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
