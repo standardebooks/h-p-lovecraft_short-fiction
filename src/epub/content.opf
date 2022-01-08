@@ -56,37 +56,28 @@
 		<dc:language>en-GB</dc:language>
 		<!-- The Alchemist, A Reminiscence of Dr. Samuel Johnson, The White Ship, Nyarlathotep, Ex Oblivione -->
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
-		<!-- The Shunned House -->
-		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
-		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
-		<!-- The Other Gods -->
-		<dc:source>https://www.gutenberg.org/ebooks/46534</dc:source>
-		<!-- Polaris -->
-		<dc:source>https://www.gutenberg.org/ebooks/46616</dc:source>
-		<!-- The Dunwich Horror -->
-		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
-		<!-- From Beyond -->
-		<dc:source>https://www.gutenberg.org/ebooks/64901</dc:source>
 		<!-- Beyond the Wall of Sleep -->
 		<dc:source>https://www.gutenberg.org/ebooks/64940</dc:source>
 		<!-- Dagon -->
 		<dc:source>https://archive.org/details/WeirdTalesV02N03192310</dc:source>
-		<!-- Facts Concerning the Late Arthur Jermyn and His Family / The White Ape -->
-		<dc:source>https://archive.org/details/WeirdTalesV03n04192404</dc:source>
-		<!-- The Rats in the Walls -->
-		<dc:source>https://archive.org/details/WeirdTalesV03n03192403</dc:source>
-		<!-- The Picture in the House -->
-		<dc:source>https://archive.org/details/WeirdTalesV03N01192401</dc:source>
-		<!-- The Hound -->
-		<dc:source>https://archive.org/details/WeirdTalesV03N02192402</dc:source>
-		<!-- Imprisoned with the Pharaohs, Hypnos -->
-		<dc:source>https://archive.org/details/WeirdTales1924050607ATLPM</dc:source>
-		<!-- The Festival -->
-		<dc:source>https://archive.org/details/WeirdTalesV05N01192501/page/n169</dc:source>
 		<!-- The Statement of Randolph Carter -->
 		<dc:source>https://archive.org/details/WeirdTalesV05N02192502/page/n149</dc:source>
+		<!-- Polaris -->
+		<dc:source>https://www.gutenberg.org/ebooks/46616</dc:source>
+		<!-- Facts Concerning the Late Arthur Jermyn and His Family / The White Ape -->
+		<dc:source>https://archive.org/details/WeirdTalesV03n04192404</dc:source>
+		<!-- The Picture in the House -->
+		<dc:source>https://archive.org/details/WeirdTalesV03N01192401</dc:source>
 		<!-- The Music of Erich Zann -->
 		<dc:source>https://archive.org/details/WeirdTalesV05N05192505/page/n27</dc:source>
+		<!-- Hypnos, Imprisoned with the Pharaohs -->
+		<dc:source>https://archive.org/details/WeirdTales1924050607ATLPM</dc:source>
+		<!-- The Hound -->
+		<dc:source>https://archive.org/details/WeirdTalesV03N02192402</dc:source>
+		<!-- The Rats in the Walls -->
+		<dc:source>https://archive.org/details/WeirdTalesV03n03192403</dc:source>
+		<!-- The Festival -->
+		<dc:source>https://archive.org/details/WeirdTalesV05N01192501/page/n169</dc:source>
 		<!-- The Unnamable -->
 		<dc:source>https://archive.org/details/WeirdTalesV06N01192507/page/n77</dc:source>
 		<!-- The Temple -->
@@ -100,6 +91,15 @@
 		<!-- He -->
 		<dc:source>https://en.wikisource.org/wiki/He</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV08N03192609/page/n85</dc:source>
+		<!-- The Dunwich Horror -->
+		<dc:source>https://www.gutenberg.org/ebooks/50133</dc:source>
+		<!-- The Other Gods -->
+		<dc:source>https://www.gutenberg.org/ebooks/46534</dc:source>
+		<!-- From Beyond -->
+		<dc:source>https://www.gutenberg.org/ebooks/64901</dc:source>
+		<!-- The Shunned House -->
+		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
+		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
 		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
 		<meta property="se:word-count">101396</meta>
 		<meta property="se:reading-ease.flesch">52.73</meta>
@@ -201,30 +201,30 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
 		<itemref idref="a-reminiscence-of-dr-samuel-johnson.xhtml"/>
-		<itemref idref="polaris.xhtml"/>
-		<itemref idref="dagon.xhtml"/>
 		<itemref idref="beyond-the-wall-of-sleep.xhtml"/>
+		<itemref idref="dagon.xhtml"/>
 		<itemref idref="the-white-ship.xhtml"/>
 		<itemref idref="the-statement-of-randolph-carter.xhtml"/>
-		<itemref idref="from-beyond.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
+		<itemref idref="polaris.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
-		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
 		<itemref idref="the-picture-in-the-house.xhtml"/>
 		<itemref idref="the-music-of-erich-zann.xhtml"/>
 		<itemref idref="hypnos.xhtml"/>
 		<itemref idref="the-hound.xhtml"/>
 		<itemref idref="the-rats-in-the-walls.xhtml"/>
+		<itemref idref="imprisoned-with-the-pharaohs.xhtml"/>
 		<itemref idref="the-festival.xhtml"/>
 		<itemref idref="the-unnamable.xhtml"/>
 		<itemref idref="the-temple.xhtml"/>
-		<itemref idref="imprisoned-with-the-pharaohs.xhtml"/>
 		<itemref idref="the-outsider.xhtml"/>
 		<itemref idref="the-moon-bog.xhtml"/>
 		<itemref idref="he.xhtml"/>
-		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
+		<itemref idref="the-other-gods.xhtml"/>
+		<itemref idref="from-beyond.xhtml"/>
+		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
