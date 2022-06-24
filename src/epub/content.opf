@@ -178,6 +178,8 @@
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polaris.xhtml" id="polaris.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-call-of-cthulhu.xhtml" id="the-call-of-cthulhu.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-colour-out-of-space.xhtml" id="the-colour-out-of-space.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-festival.xhtml" id="the-festival.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
@@ -221,6 +223,8 @@
 		<itemref idref="the-outsider.xhtml"/>
 		<itemref idref="the-moon-bog.xhtml"/>
 		<itemref idref="he.xhtml"/>
+		<itemref idref="the-colour-out-of-space.xhtml"/>
+		<itemref idref="the-call-of-cthulhu.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="from-beyond.xhtml"/>
