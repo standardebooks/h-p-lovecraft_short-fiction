@@ -72,3 +72,9 @@ article > header [epub|type~="epigraph"]{
 [epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
+
+blockquote > header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
