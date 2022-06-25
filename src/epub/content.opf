@@ -45,6 +45,7 @@
 		<meta property="term" refines="#subject-5">sh85004320</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;Howard Phillips Lovecraft&lt;/a&gt; was one of the most influential writers of horror fiction in the early 20th century. His fame is mostly posthumous: he was only published in pulp magazines in his lifetime, and never saw financial success. Despite that, Lovecraft’s unique blend of gothicism, horror, and the supernatural, set in an imagined but eerily-real New England, marked a gold standard for horror fiction for decades after his death.&lt;/p&gt;
