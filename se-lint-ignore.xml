@@ -24,4 +24,10 @@
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
+	<file path="the-call-of-cthulhu.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>Story uses US spelling.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
