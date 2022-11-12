@@ -101,8 +101,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
 		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
 		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
-		<meta property="se:word-count">111686</meta>
-		<meta property="se:reading-ease.flesch">52.33</meta>
+		<meta property="se:word-count">135973</meta>
+		<meta property="se:reading-ease.flesch">52.83</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._P._Lovecraft_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-p-lovecraft_short-fiction</meta>
 		<dc:creator id="author">H. P. Lovecraft</dc:creator>
