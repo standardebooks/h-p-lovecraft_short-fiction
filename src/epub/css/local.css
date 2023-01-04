@@ -57,6 +57,11 @@ article > header [epub|type~="epigraph"]{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:verse"] p + p{
+	margin-top: 1em;
+}
+
 [epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
@@ -69,6 +74,11 @@ article > header [epub|type~="epigraph"]{
 	display: none;
 }
 
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
 [epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
@@ -77,4 +87,14 @@ blockquote > header{
 	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
