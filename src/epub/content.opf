@@ -176,12 +176,15 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprisoned-with-the-pharaohs.xhtml" id="imprisoned-with-the-pharaohs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pickmans-model.xhtml" id="pickmans-model.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polaris.xhtml" id="polaris.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-call-of-cthulhu.xhtml" id="the-call-of-cthulhu.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cats-of-ulthar.xhtml" id="the-cats-of-ulthar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-colour-out-of-space.xhtml" id="the-colour-out-of-space.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-festival.xhtml" id="the-festival.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-horror-at-red-hook.xhtml" id="the-horror-at-red-hook.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moon-bog.xhtml" id="the-moon-bog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-music-of-erich-zann.xhtml" id="the-music-of-erich-zann.xhtml" media-type="application/xhtml+xml"/>
@@ -192,6 +195,8 @@
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-temple.xhtml" id="the-temple.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-terrible-old-man.xhtml" id="the-terrible-old-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-unnamable.xhtml" id="the-unnamable.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -220,10 +225,15 @@
 		<itemref idref="the-festival.xhtml"/>
 		<itemref idref="the-unnamable.xhtml"/>
 		<itemref idref="the-temple.xhtml"/>
+		<itemref idref="the-tomb.xhtml"/>
+		<itemref idref="the-cats-of-ulthar.xhtml"/>
 		<itemref idref="the-outsider.xhtml"/>
 		<itemref idref="the-moon-bog.xhtml"/>
+		<itemref idref="the-terrible-old-man.xhtml"/>
 		<itemref idref="he.xhtml"/>
+		<itemref idref="the-horror-at-red-hook.xhtml"/>
 		<itemref idref="the-colour-out-of-space.xhtml"/>
+		<itemref idref="pickmans-model.xhtml"/>
 		<itemref idref="the-call-of-cthulhu.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-other-gods.xhtml"/>
