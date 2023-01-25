@@ -97,3 +97,7 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+#the-horror-at-red-hook-4 blockquote:last-of-type{
+	font-variant: small-caps;
+}
