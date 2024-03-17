@@ -187,6 +187,7 @@
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/cool-air.xhtml" id="cool-air.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
@@ -212,7 +213,9 @@
 		<item href="text/the-other-gods.xhtml" id="the-other-gods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-outsider.xhtml" id="the-outsider.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-picture-in-the-house.xhtml" id="the-picture-in-the-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-quest-of-iranon.xhtml" id="the-quest-of-iranon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rats-in-the-walls.xhtml" id="the-rats-in-the-walls.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shadow-over-innsmouth.xhtml" id="the-shadow-over-innsmouth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-temple.xhtml" id="the-temple.xhtml" media-type="application/xhtml+xml"/>
@@ -256,9 +259,12 @@
 		<itemref idref="the-colour-out-of-space.xhtml"/>
 		<itemref idref="pickmans-model.xhtml"/>
 		<itemref idref="the-call-of-cthulhu.xhtml"/>
+		<itemref idref="cool-air.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="from-beyond.xhtml"/>
+		<itemref idref="the-quest-of-iranon.xhtml"/>
+		<itemref idref="the-shadow-over-innsmouth.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
