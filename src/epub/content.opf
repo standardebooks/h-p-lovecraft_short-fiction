@@ -121,6 +121,15 @@
 		<!-- The Shunned House -->
 		<dc:source>https://www.gutenberg.org/ebooks/31469</dc:source>
 		<dc:source>https://archive.org/details/wt_1937_10</dc:source>
+		<!-- The Shadow Over Innsmouth -->
+		<dc:source>https://www.gutenberg.org/ebooks/73181</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v36n03_1942-01_AT-sas/page/n7</dc:source>
+		<!-- The Quest of Iranon -->
+		<dc:source>https://www.gutenberg.org/ebooks/73182</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v33n03_1939-03/page/124</dc:source>
+		<!-- Cool Air -->
+		<dc:source>https://www.gutenberg.org/ebooks/73177</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v34n03_1939-09/page/n95</dc:source>
 		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
 		<meta property="se:word-count">156703</meta>
 		<meta property="se:reading-ease.flesch">52.73</meta>
@@ -176,6 +185,10 @@
 		<meta property="role" refines="#producer-4" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-4" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-4" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-5">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-5">Kaiber, Hendrik</meta>
+		<meta property="role" refines="#producer-5" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-5" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
