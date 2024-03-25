@@ -259,6 +259,7 @@
 		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
 		<itemref idref="the-picture-in-the-house.xhtml"/>
 		<itemref idref="the-music-of-erich-zann.xhtml"/>
+		<itemref idref="the-lurking-fear.xhtml"/>
 		<itemref idref="hypnos.xhtml"/>
 		<itemref idref="the-hound.xhtml"/>
 		<itemref idref="the-rats-in-the-walls.xhtml"/>
@@ -277,11 +278,14 @@
 		<itemref idref="pickmans-model.xhtml"/>
 		<itemref idref="the-call-of-cthulhu.xhtml"/>
 		<itemref idref="cool-air.xhtml"/>
+		<itemref idref="the-silver-key.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="from-beyond.xhtml"/>
 		<itemref idref="the-quest-of-iranon.xhtml"/>
 		<itemref idref="the-shadow-over-innsmouth.xhtml"/>
+		<itemref idref="the-haunter-of-the-dark.xhtml"/>
+		<itemref idref="the-thing-on-the-doorstep.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
