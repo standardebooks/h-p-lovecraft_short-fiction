@@ -219,8 +219,10 @@
 		<item href="text/the-colour-out-of-space.xhtml" id="the-colour-out-of-space.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-festival.xhtml" id="the-festival.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-haunter-of-the-dark.xhtml" id="the-haunter-of-the-dark.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-horror-at-red-hook.xhtml" id="the-horror-at-red-hook.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lurking-fear.xhtml" id="the-lurking-fear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moon-bog.xhtml" id="the-moon-bog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-music-of-erich-zann.xhtml" id="the-music-of-erich-zann.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-gods.xhtml" id="the-other-gods.xhtml" media-type="application/xhtml+xml"/>
@@ -230,9 +232,11 @@
 		<item href="text/the-rats-in-the-walls.xhtml" id="the-rats-in-the-walls.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shadow-over-innsmouth.xhtml" id="the-shadow-over-innsmouth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-silver-key.xhtml" id="the-silver-key.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-temple.xhtml" id="the-temple.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-terrible-old-man.xhtml" id="the-terrible-old-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-thing-on-the-doorstep.xhtml" id="the-thing-on-the-doorstep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-unnamable.xhtml" id="the-unnamable.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
@@ -255,6 +259,7 @@
 		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
 		<itemref idref="the-picture-in-the-house.xhtml"/>
 		<itemref idref="the-music-of-erich-zann.xhtml"/>
+		<itemref idref="the-lurking-fear.xhtml"/>
 		<itemref idref="hypnos.xhtml"/>
 		<itemref idref="the-hound.xhtml"/>
 		<itemref idref="the-rats-in-the-walls.xhtml"/>
@@ -273,11 +278,14 @@
 		<itemref idref="pickmans-model.xhtml"/>
 		<itemref idref="the-call-of-cthulhu.xhtml"/>
 		<itemref idref="cool-air.xhtml"/>
+		<itemref idref="the-silver-key.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="from-beyond.xhtml"/>
 		<itemref idref="the-quest-of-iranon.xhtml"/>
 		<itemref idref="the-shadow-over-innsmouth.xhtml"/>
+		<itemref idref="the-haunter-of-the-dark.xhtml"/>
+		<itemref idref="the-thing-on-the-doorstep.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>

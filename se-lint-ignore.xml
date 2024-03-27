@@ -30,4 +30,10 @@
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
+	<file path="the-thing-on-the-doorstep.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation is correct.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
