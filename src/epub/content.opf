@@ -130,6 +130,18 @@
 		<!-- Cool Air -->
 		<dc:source>https://www.gutenberg.org/ebooks/73177</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v34n03_1939-09/page/n95</dc:source>
+		<!-- The Haunter of the Dark -->
+		<dc:source>https://www.gutenberg.org/ebooks/73233</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV28N05193612/page/n27</dc:source>
+		<!-- The Lurking Fear -->
+		<dc:source>https://www.gutenberg.org/ebooks/70486</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV11N06192806/page/n71</dc:source>
+		<!-- The Silver Key -->
+		<dc:source>https://www.gutenberg.org/ebooks/70478</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV13N01192901sasIbc/page/n41</dc:source>
+		<!-- The Thing on the Doorstep -->
+		<dc:source>https://www.gutenberg.org/ebooks/73230</dc:source>
+		<dc:source>https://archive.org/details/weird-tales-v-29-n-01-1937-01/page/52</dc:source>
 		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
 		<meta property="se:word-count">156703</meta>
 		<meta property="se:reading-ease.flesch">52.73</meta>
