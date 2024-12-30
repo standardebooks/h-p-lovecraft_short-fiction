@@ -45,6 +45,9 @@
 		<meta property="term" refines="#subject-5">sh85004320</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">26</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
