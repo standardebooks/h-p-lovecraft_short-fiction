@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="the-outsider.xhtml">
+	<file path="he.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>Story uses US spelling.</reason>
+		</ignore>
+	</file>
+	<file path="the-call-of-cthulhu.xhtml">
 		<ignore>
 			<code>s-033</code>
 			<reason>Story uses US spelling.</reason>
@@ -12,13 +18,7 @@
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
-	<file path="he.xhtml">
-		<ignore>
-			<code>s-033</code>
-			<reason>Story uses US spelling.</reason>
-		</ignore>
-	</file>
-	<file path="the-call-of-cthulhu.xhtml">
+	<file path="the-outsider.xhtml">
 		<ignore>
 			<code>s-033</code>
 			<reason>Story uses US spelling.</reason>
