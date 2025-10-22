@@ -19,7 +19,6 @@
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
-		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
@@ -215,6 +214,7 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/celephais.xhtml" id="celephais.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/cool-air.xhtml" id="cool-air.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
