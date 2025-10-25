@@ -145,6 +145,9 @@
 		<!-- The Thing on the Doorstep, p. 52 -->
 		<dc:source>https://www.gutenberg.org/ebooks/73230</dc:source>
 		<dc:source>https://archive.org/details/weird-tales-v-29-n-01-1937-01</dc:source>
+		<!-- Celephaïs -->
+		<dc:source>https://en.wikisource.org/wiki/Celepha%C3%AFs</dc:source>
+		<dc:source>https://archive.org/details/rainbow-2</dc:source>
 		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
 		<meta property="se:word-count">213495</meta>
 		<meta property="se:reading-ease.flesch">53.44</meta>
