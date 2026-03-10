@@ -2,21 +2,25 @@
 <se-lint-ignore>
 	<file path="he.xhtml">
 		<ignore code="s-033">
+			<line>2</line>
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
 	<file path="the-call-of-cthulhu.xhtml">
 		<ignore code="s-033">
+			<line>2</line>
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
 	<file path="the-moon-bog.xhtml">
 		<ignore code="s-033">
+			<line>2</line>
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
 	<file path="the-outsider.xhtml">
 		<ignore code="s-033">
+			<line>2</line>
 			<reason>Story uses US spelling.</reason>
 		</ignore>
 	</file>
