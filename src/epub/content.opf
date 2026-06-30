@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction</dc:identifier>
 		<dc:date>2018-04-03T22:53:39Z</dc:date>
 		<meta property="dcterms:modified">2018-04-03T22:53:39Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -43,13 +44,15 @@
 		<meta property="term" refines="#subject-4">sh85062084</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85004320</meta>
-		<meta property="se:subject">Horror</meta>
-		<meta property="se:subject">Shorts</meta>
+		<meta property="schema:genre">Horror</meta>
+		<meta property="schema:genre">Shorts</meta>
 		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">26</meta>
-		<meta property="se:title-in-collection" refines="#collection-1">The Call of Cthulhu</meta>
-		<meta property="se:is-a-collection">true</meta>
+		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
+		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
+		<meta property="schema:name" refines="#collection-1-entry-1">The Call of Cthulhu</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:description id="description">The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;Howard Phillips Lovecraft&lt;/a&gt; was one of the most influential writers of horror fiction in the early 20th century. His fame is mostly posthumous: he was only published in pulp magazines in his lifetime, and never saw financial success. Despite that, Lovecraft’s unique blend of gothicism, horror, and the supernatural, set in an imagined but eerily real New England, marked a gold standard for horror fiction for decades after his death.&lt;/p&gt;
@@ -149,22 +152,23 @@
 		<!-- Celephaïs -->
 		<dc:source>https://en.wikisource.org/wiki/Celepha%C3%AFs</dc:source>
 		<dc:source>https://archive.org/details/rainbow-2</dc:source>
-		<meta property="se:production-notes">Some archaic spelling has been preserved as part of Lovecraft's signature prose style, especially in "A Reminiscence of Dr. Samuel Johnson."</meta>
-		<meta property="se:word-count">214497</meta>
-		<meta property="se:reading-ease.flesch">53.34</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._P._Lovecraft_bibliography</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-p-lovecraft_short-fiction</meta>
+		<meta property="schema:wordCount">214497</meta>
+		<meta property="schema:educationalLevel">53.34</meta>
+		<link href="https://en.wikipedia.org/wiki/H._P._Lovecraft_bibliography" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/h-p-lovecraft_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">H. P. Lovecraft</dc:creator>
 		<meta property="file-as" refines="#author">Lovecraft, H. P.</meta>
-		<meta property="se:name.person.full-name" refines="#author">Howard Phillips Lovecraft</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._P._Lovecraft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80017007</meta>
+		<meta property="schema:alternateName" refines="#author">Howard Phillips Lovecraft</meta>
+		<link href="https://en.wikipedia.org/wiki/H._P._Lovecraft" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80017007.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Arnold Böcklin</dc:contributor>
 		<meta property="file-as" refines="#artist">Böcklin, Arnold</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50010065</meta>
+		<link href="https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50010065.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
@@ -183,7 +187,7 @@
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com/</meta>
+		<link href="https://alexcabal.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -196,7 +200,7 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<dc:contributor id="producer-3">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-3">Whittleton, Robin</meta>
-		<meta property="se:url.homepage" refines="#producer-3">https://www.robinwhittleton.com/</meta>
+		<link href="https://www.robinwhittleton.com/" refines="#producer-3" rel="schema:url"/>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 		<dc:contributor id="producer-4">Matic Likar</dc:contributor>
