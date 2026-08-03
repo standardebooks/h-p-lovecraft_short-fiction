@@ -152,7 +152,7 @@
 		<!-- Celephaïs -->
 		<dc:source>https://en.wikisource.org/wiki/Celepha%C3%AFs</dc:source>
 		<dc:source>https://archive.org/details/rainbow-2</dc:source>
-		<meta property="schema:wordCount">214497</meta>
+		<meta property="schema:wordCount">214498</meta>
 		<meta property="schema:educationalLevel">53.34</meta>
 		<link href="https://en.wikipedia.org/wiki/H._P._Lovecraft_bibliography" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
