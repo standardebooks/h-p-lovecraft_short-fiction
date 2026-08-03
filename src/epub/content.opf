@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction</dc:identifier>
 		<dc:date>2018-04-03T22:53:39Z</dc:date>
@@ -53,13 +53,13 @@
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Call of Cthulhu</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The complete U.S. public domain short fiction of horror legend H. P. Lovecraft.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;Howard Phillips Lovecraft&lt;/a&gt; was one of the most influential writers of horror fiction in the early 20th century. His fame is mostly posthumous: he was only published in pulp magazines in his lifetime, and never saw financial success. Despite that, Lovecraft’s unique blend of gothicism, horror, and the supernatural, set in an imagined but eerily real New England, marked a gold standard for horror fiction for decades after his death.&lt;/p&gt;
 			&lt;p&gt;Readers of modern fantasy and horror fiction will certainly recognize Cthulhu, the tentacle-mouthed god who lies asleep in a sunken Atlantean ruin; the &lt;i&gt;Necronomicon&lt;/i&gt;, a grimoire of unspeakable power and horror penned by the “mad Arab” Abdul Alhazred; and the dark, twisted New England countryside of the Miskatonic Valley. These and other features take shape in Lovecraft’s stories, creating a backdrop of the bizarre and evil behind seemingly day-to-day lives. A thread of cosmic horror soon turns anything normal towards madness.&lt;/p&gt;
 			&lt;p&gt;While this edition contains much of Lovecraft’s short fiction, verifying the U.S. public domain status of Lovecraft’s corpus is a difficult, if not impossible, academic exercise, and finding first-edition copies to transcribe is also difficult. This edition will be updated as more transcriptions become verified and available.&lt;/p&gt;
 			&lt;p&gt;Included in this edition are some of Lovecraft’s juvenilia—in particular, “The Alchemist” was written when he was just seventeen or eighteen.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- The Alchemist, A Reminiscence of Dr. Samuel Johnson, The White Ship, Nyarlathotep, Ex Oblivione -->
 		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
